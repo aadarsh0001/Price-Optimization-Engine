@@ -61,7 +61,7 @@ print(f'Test Case 5: ${test_case_5}')
 
 ## Let's connect
 
-We can connect on on LinkedIn to share ideas and collaborate:
+We can connect on LinkedIn:
 
 - Aadarsh Tiwari: [LinkedIn Profile](https://www.linkedin.com/in/aadarshtiwari)
 
